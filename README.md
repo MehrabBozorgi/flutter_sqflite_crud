@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+watch tutorial on Youtube:https://youtube.com/playlist?list=PLoqGlc-GpLmzsDIrtmM71fq_da1bltHl3
 
 
 
